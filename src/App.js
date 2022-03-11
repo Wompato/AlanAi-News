@@ -46,7 +46,7 @@ const App = () => {
     <div>
       <div className={classes.logoContainer}>
         <img
-          src="https://www.conversationdesigninstitute.com/assets/images/academy/POP/cover-card-EXT-Alan@2x.png"
+          src="https://www.conversationdesigcover-card-EXT-Alan@2x.png"
           className={classes.alanLogo}
         />
       </div>
